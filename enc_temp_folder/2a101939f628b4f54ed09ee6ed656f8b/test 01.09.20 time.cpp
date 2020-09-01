@@ -1,12 +1,9 @@
 #include <iostream>
-#include <string>
+
 //using namespace std;
 
 int age;
 bool sw = true;
-char initial = 'm';
-std::string name = "Fredrik";
-double pi = 3.14;
 
 int main() {
 	std::cout << sw;
